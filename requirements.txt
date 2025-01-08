@@ -1,0 +1,3 @@
+# Dependencies for some files to work correctly
+- Pip
+-numpy==23.2.1
